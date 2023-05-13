@@ -35,7 +35,7 @@ int main() {
     
     printf("Aramanin yapildigi dizi: {4, 8, 3, 84, 47, 76, 9, 24, 68}\n\n");
     printf("BubbleSort ile dizinin siralanmasi degistirilip duzene sokuldu.\n\n");
-    printf("Dizinin BubbleSort ile siralandiktan sonraki hali: {3,4,8,9,24,47,68,76,84}\n\n265");
+    printf("Dizinin BubbleSort ile siralandiktan sonraki hali: {3,4,8,9,24,47,68,76,84}\n\n");
     
     
     int AranacakEleman;
